@@ -1,4 +1,4 @@
-# Supply Chain Freight Analytics Dashboard Case Study
+# Supply Chain Freight Analytics 
 
 ## Introduction
 
